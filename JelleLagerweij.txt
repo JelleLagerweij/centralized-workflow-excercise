@@ -1,0 +1,4 @@
+My name is Vladimir Jelle Lagerweij.
+
+I love git (sometimes)
+I hate git (occasionally)
